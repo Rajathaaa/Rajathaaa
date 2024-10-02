@@ -16,11 +16,11 @@
 <a href="https://linkedin.com/in/rajatha prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatha prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/rathawho.rathawhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rathawho.rathawhat" height="30" width="40" /></a>
 </p>
-
+<br>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajathaaa&show_icons=true&locale=en&layout=compact" alt="rajathaaa" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathaaa&show_icons=true&locale=en" alt="rajathaaa" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathaaa&" alt="rajathaaa" /></p>
 
