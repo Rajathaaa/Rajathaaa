@@ -5,7 +5,7 @@
   </div>
 <br>
 
-- Currently learning **Web Development**
+- Currently learning **Machine Learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
